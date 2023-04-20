@@ -4,7 +4,8 @@
 <p>
 Linear regression is a statistical method used to model the relationship between a dependent variable and one or more independent variables. It is a widely used technique for predicting a continuous outcome variable based on one or more predictor variables.
 
-The goal of linear regression is to find the best-fit line that represents the linear relationship between the dependent variable and the independent variables. This line is called the regression line, and it is defined by the equation:  `y = mx + b` where y is the dependent variable, x is the independent variable, m is the slope of the line, and b is the y-intercept.
+The goal of linear regression is to find the best-fit line that represents the linear relationship between the dependent variable and the independent variables. This line is called the regression line, and it is defined by the equation:  
+`y = mx + b` where y is the dependent variable, x is the independent variable, m is the slope of the line, and b is the y-intercept.
 
 Linear regression can be used for both simple and multiple regression, depending on the number of independent variables used in the model. It is widely used in various fields such as economics, finance, biology, and social sciences to predict future outcomes and understand the relationship between variables.
 </p>
